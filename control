@@ -1,0 +1,9 @@
+Package: com.tonyk7.duplify
+Name: Duplify
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Duplicate Spotify playlists instantly
+Maintainer: Tony
+Author: Tony
+Section: Tweaks
